@@ -1,0 +1,6 @@
+criterion,target,result,status
+Completeness,>= 95%,100% (4P),Met
+Invalid rows rejected,100%,"100% (all tests, 7/7 injected faults)",Met
+5-min forecast MAE,< 0.5 C,0.27 C persistence / 0.51 C MA3,"Met (persistence), not met (MA3)"
+PIR agreement with observation,>= 80%,Not measurable (50 Hz noise),Not met
+Alert delay,<= 10 min,5 min raw / 10 min MA3,Met

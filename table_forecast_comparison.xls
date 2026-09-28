@@ -1,0 +1,6 @@
+model,MAE,RMSE,max_err
+Persistence (last value),0.274,0.575,2.7
+EWMA alpha=0.8,0.329,0.644,2.745
+Linear trend (last 3),0.34,0.63,2.567
+MA3 (Task 4P),0.509,0.911,3.167
+MA5,0.723,1.174,3.64

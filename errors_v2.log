@@ -1,0 +1,66 @@
+2026-09-27T20:08:42.753332 serial lost, reconnecting
+2026-09-27T20:08:42.755692 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:08:47.758031 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:08:52.759639 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:08:57.761866 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:02.763432 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:07.765024 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:12.766906 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:17.769701 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:22.771001 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:27.772062 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:32.773263 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:37.775899 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:42.777708 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:47.779397 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:52.781268 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:09:57.782433 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:02.785550 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:07.791433 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:12.794718 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:17.798785 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:22.802590 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:27.804246 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:32.806401 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:37.808944 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:42.811900 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:47.814126 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:52.817700 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:10:57.820664 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:02.824002 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:07.826218 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:12.827543 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:17.828791 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:22.831786 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:27.833933 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:32.836716 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:37.838271 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:42.839767 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:47.841079 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:52.842921 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:11:57.844957 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:02.846217 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:07.847710 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:12.850320 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:17.854846 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:22.855917 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:27.857213 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:32.861896 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:37.863162 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:42.866020 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:47.867458 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:52.869501 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:12:57.872626 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:02.874206 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:07.876436 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:12.877931 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:17.881089 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:22.882896 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:27.884819 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:32.887528 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:37.892006 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:13:42.893645 cannot open COM3: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2); retry in 5s
+2026-09-27T20:14:12.085078 watchdog: no data for 400s
+2026-09-27T20:18:44.576576 seq reset 4->1 (Arduino rebooted?)
+2026-09-27T20:33:50.777316 arduino reported: ERR,4,dht_fail
+2026-09-27T20:38:44.775130 gap: 1 sample(s) missing between seq 3 and 5

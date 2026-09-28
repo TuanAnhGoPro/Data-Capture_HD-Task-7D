@@ -1,0 +1,3 @@
+input,first alert,delay after first cold reading (min),alert samples,alert episodes
+Raw,21:36,5,30,1
+MA3 filtered,21:41,10,29,1
